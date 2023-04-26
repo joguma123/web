@@ -1,7 +1,7 @@
 body{color:rgb(0, 0, 0);text-align:center;font-family
     :Arial;font-size:16px;margin:0;padding:0}
     
-    #cabecera{background:rgb(255, 255, 255);box-shadow:0 2px 20px 0 rgba(0, 0, 0, 0.5);color:#ca2c18;font-weight:700;margin:0;padding:.5em}
+    #cabecera{background:rgb(0, 0, 0);box-shadow:0 2px 20px 0 rgba(0, 0, 0, 0.5);color:#ca2c18;font-weight:700;margin:0;padding:.5em}
     
     #cabecera #tagline
     {padding:0 0 0 1em;font-weight:400;font-size:.8em}
